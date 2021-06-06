@@ -1,10 +1,12 @@
 .header {
+  
     height: 70px;
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 20px;
+    
   
     .logo-container {
       height: 100%;
@@ -34,12 +36,17 @@
   .header {
     justify-content: space-between;
     .options {
-      width: 80%;
+      width: 100%;
 
     }
 
     .logo-container {
       margin-right: 20px;
+      padding: 0;
+      
+      .logo {
+        width: 30px;
+      }
     }
   }
 
