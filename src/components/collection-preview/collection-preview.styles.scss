@@ -1,5 +1,6 @@
 .collection-preview {
     display: flex;
+    width: 100%;
     flex-direction: column;
     margin-bottom: 30px;
   
@@ -13,4 +14,14 @@
       justify-content: space-between;
     }
   }
+
+@media screen and (max-width:800px) {
+  .collection-preview{
+    justify-content: center;
+    align-items: center;
+  }
+  .preview {
+    flex-direction: column;
+  }
+}
   

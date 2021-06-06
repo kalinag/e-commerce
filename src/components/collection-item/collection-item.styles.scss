@@ -50,4 +50,22 @@
       }
     }
   }
+
+  @media screen and (max-width:800px) {
+    .collection-item {
+      width: 80vw;
+     
+
+      
+      .image {
+        margin-top: 50px;
+        margin-bottom: 10px;
+        height: 90%;
+      }
+
+      
+      
+    }
+    
+  }
   
