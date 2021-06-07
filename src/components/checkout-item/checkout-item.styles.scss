@@ -44,3 +44,16 @@
     }
   }
   
+  @media screen and (max-width:800px) {
+    .checkout-item {
+      font-size: 15px;
+      .quantity{
+        .value {
+          margin: 0 7px;
+        }
+      }
+      .price {
+        padding-left: 20px;
+      }
+    }
+  }
