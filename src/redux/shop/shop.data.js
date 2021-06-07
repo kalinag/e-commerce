@@ -6,57 +6,57 @@ const SHOP_DATA = {
     items: [
       {
         id: 1,
-        name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
-        price: 25
+        name: 'Blue winter beanie',
+        imageUrl: 'https://i.imgur.com/z8V3FdC.jpeg',
+        price: 15
       },
       {
         id: 2,
-        name: 'Blue Beanie',
-        imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
+        name: 'White beanie',
+        imageUrl: 'https://i.imgur.com/UBKHdwC.jpeg',
         price: 18
       },
       {
         id: 3,
-        name: 'Brown Cowboy',
-        imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
-        price: 35
+        name: 'Red childrens winter beanie',
+        imageUrl: 'https://i.imgur.com/voSHipn.jpeg',
+        price: 25
       },
       {
         id: 4,
-        name: 'Grey Brim',
-        imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
+        name: 'Dark grey winter beanie',
+        imageUrl: 'https://i.imgur.com/hSS5f2X.jpeg',
         price: 25
       },
       {
         id: 5,
-        name: 'Green Beanie',
-        imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
-        price: 18
+        name: 'White cap',
+        imageUrl: 'https://i.imgur.com/JZbce6Z.jpeg',
+        price: 16
       },
       {
         id: 6,
-        name: 'Palm Tree Cap',
-        imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
+        name: 'Beach hat',
+        imageUrl: 'https://i.imgur.com/CrXCm9d.jpeg',
         price: 14
       },
       {
         id: 7,
-        name: 'Red Beanie',
-        imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
-        price: 18
+        name: 'Yellow cap',
+        imageUrl: 'https://i.imgur.com/cb2aiTN.jpeg',
+        price: 12
       },
       {
         id: 8,
-        name: 'Wolf Cap',
-        imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
+        name: 'White summer hat',
+        imageUrl: 'https://i.imgur.com/iA3zSmw.jpeg',
         price: 14
       },
       {
         id: 9,
-        name: 'Blue Snapback',
-        imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
-        price: 16
+        name: 'Black stylish hat',
+        imageUrl: 'https://i.imgur.com/mKSsV0T.jpeg',
+        price: 24
       }
     ]
   },
@@ -67,50 +67,50 @@ const SHOP_DATA = {
     items: [
       {
         id: 10,
-        name: 'Adidas NMD',
-        imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
-        price: 220
+        name: 'Durable sneakers for running',
+        imageUrl: 'https://i.imgur.com/8CoEQhk.jpeg',
+        price: 150
       },
       {
         id: 11,
-        name: 'Adidas Yeezy',
-        imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
-        price: 280
+        name: 'Black casual sneakers',
+        imageUrl: 'https://i.imgur.com/IooSejW.jpeg',
+        price: 275
       },
       {
         id: 12,
-        name: 'Black Converse',
-        imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
+        name: 'Colorful casual sneakers',
+        imageUrl: 'https://i.imgur.com/iGbS2Qj.jpeg',
         price: 110
       },
       {
         id: 13,
-        name: 'Nike White AirForce',
-        imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
-        price: 160
+        name: 'Nike golden edition sneakers',
+        imageUrl: 'https://i.imgur.com/enXBIKt.jpeg',
+        price: 260
       },
       {
         id: 14,
-        name: 'Nike Red High Tops',
-        imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
+        name: 'Light-pink casual sneakers',
+        imageUrl: 'https://i.imgur.com/FBFkeC6.jpeg',
         price: 160
       },
       {
         id: 15,
-        name: 'Nike Brown High Tops',
-        imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
-        price: 160
+        name: 'Nike white casual sneakers',
+        imageUrl: 'https://i.imgur.com/niuhdri.jpeg',
+        price: 180
       },
       {
         id: 16,
-        name: 'Air Jordan Limited',
-        imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
-        price: 190
+        name: 'black & blue casual sneakers',
+        imageUrl: 'https://i.imgur.com/hMlEk2r.jpeg',
+        price: 120
       },
       {
         id: 17,
-        name: 'Timberlands',
-        imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
+        name: 'Waterproof green sneakers',
+        imageUrl: 'https://i.imgur.com/Pg3TVwn.jpeg',
         price: 200
       }
     ]
@@ -122,33 +122,33 @@ const SHOP_DATA = {
     items: [
       {
         id: 18,
-        name: 'Black Jean Shearling',
-        imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
-        price: 125
+        name: 'Black stylish leather jacket',
+        imageUrl: 'https://i.imgur.com/oYuzQrL.jpeg',
+        price: 175
       },
       {
         id: 19,
-        name: 'Blue Jean Jacket',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        name: 'Light-blue jean jacket',
+        imageUrl: 'https://i.imgur.com/6PXN071.jpeg',
         price: 90
       },
       {
         id: 20,
-        name: 'Grey Jean Jacket',
-        imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+        name: 'Blue Jean Jacket',
+        imageUrl: 'https://i.imgur.com/tP4J5d0.jpeg',
         price: 90
       },
       {
         id: 21,
-        name: 'Brown Shearling',
-        imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
-        price: 165
+        name: 'Brown jacket',
+        imageUrl: 'https://i.imgur.com/9RAk0J3.jpeg',
+        price: 75
       },
       {
         id: 22,
-        name: 'Tan Trench',
-        imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
-        price: 185
+        name: 'Mixed teen jacket',
+        imageUrl: 'https://i.imgur.com/CfqOK3V.jpeg',
+        price: 50
       }
     ]
   },
@@ -159,44 +159,44 @@ const SHOP_DATA = {
     items: [
       {
         id: 23,
-        name: 'Blue Tanktop',
-        imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
-        price: 25
+        name: 'Light-pink T-shirt',
+        imageUrl: 'https://i.imgur.com/obEXMd3.jpeg',
+        price: 30
       },
       {
         id: 24,
-        name: 'Floral Blouse',
-        imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
-        price: 20
+        name: 'White tank top',
+        imageUrl: 'https://i.imgur.com/C7dE448.jpeg',
+        price: 25
       },
       {
         id: 25,
-        name: 'Floral Dress',
-        imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
-        price: 80
+        name: 'Yellow track suit',
+        imageUrl: 'https://i.imgur.com/7y0n2GT.jpeg',
+        price: 120
       },
       {
         id: 26,
-        name: 'Red Dots Dress',
-        imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
-        price: 80
+        name: 'White suit',
+        imageUrl: 'https://i.imgur.com/1nDpjqi.jpeg',
+        price: 150
       },
       {
         id: 27,
-        name: 'Striped Sweater',
-        imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
+        name: 'White spotted dress',
+        imageUrl: 'https://i.imgur.com/xEPy3xe.jpeg',
         price: 45
       },
       {
         id: 28,
-        name: 'Yellow Track Suit',
-        imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
-        price: 135
+        name: 'Blue yoga pants',
+        imageUrl: 'https://i.imgur.com/VKpGDB4.jpeg',
+        price: 35
       },
       {
         id: 29,
-        name: 'White Blouse',
-        imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
+        name: 'Red sleeveless dress',
+        imageUrl: 'https://i.imgur.com/BA55d86.jpeg',
         price: 20
       }
     ]
@@ -208,39 +208,39 @@ const SHOP_DATA = {
     items: [
       {
         id: 30,
-        name: 'Camo Down Vest',
-        imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
-        price: 325
+        name: 'White blouse',
+        imageUrl: 'https://i.imgur.com/NOYl5Cv.jpeg',
+        price: 30
       },
       {
         id: 31,
-        name: 'Floral T-shirt',
-        imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
-        price: 20
+        name: 'Denim hoodie',
+        imageUrl: 'https://i.imgur.com/rxhojuk.jpeg',
+        price: 50
       },
       {
         id: 32,
-        name: 'Black & White Longsleeve',
-        imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
-        price: 25
+        name: 'Basic white T-shirt',
+        imageUrl: 'https://i.imgur.com/vdhRcYg.jpeg',
+        price: 15
       },
       {
         id: 33,
-        name: 'Pink T-shirt',
-        imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
-        price: 25
+        name: 'White tank top',
+        imageUrl: 'https://i.imgur.com/7K1Mrem.jpeg',
+        price: 20
       },
       {
         id: 34,
-        name: 'Jean Long Sleeve',
-        imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
-        price: 40
+        name: 'Beige hoodie',
+        imageUrl: 'https://i.imgur.com/IB5UICy.jpeg',
+        price: 50
       },
       {
         id: 35,
-        name: 'Burgundy T-shirt',
-        imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
-        price: 25
+        name: 'White striped shirt',
+        imageUrl: 'https://i.imgur.com/3HgZmfa.jpeg',
+        price: 60
       }
     ]
   }
