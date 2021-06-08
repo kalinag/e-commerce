@@ -239,7 +239,7 @@ const SHOP_DATA = {
       {
         id: 35,
         name: 'White striped shirt',
-        imageUrl: 'https://i.imgur.com/3HgZmfa.jpeg',
+        imageUrl: 'https://images.unsplash.com/photo-1592992584424-bb6c75136025?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
         price: 60
       }
     ]
